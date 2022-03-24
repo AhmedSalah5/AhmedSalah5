@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Salah
 - 👀 I’m interested in Web Development FullStack
-- 🌱 I’m currently learning .Net & PHP & Wordpress
+- 🌱 I’m currently learning MERN Stack , Angular , Flutter
 - 📫 Email : ahmedmahdy5005@gmail.com
 - Phone Number : 01096889764
 
