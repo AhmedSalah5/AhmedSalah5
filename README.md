@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Ahmed Salah
-- 👀 I’m interested in Web Development FullStack
-- 🌱 I’m currently learning MERN Stack , Angular , Flutter
+* 👋 Hi, I’m Ahmed Salah
+* 💻 Full Stack .NET Developer | ASP.NET Core | C# | SQL
+* 🏗️ Building scalable web applications, ERP & SaaS solutions
+* 🌱 Currently improving my skills in Angular, TypeScript & modern .NET development
+* 🚀 Interested in Clean Architecture, DDD, REST APIs & Full Stack Development
 - 📫 Email : ahmedmahdy5005@gmail.com
-- Phone Number : 01096889764
-
-<!---
-AhmedSalah5/AhmedSalah5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Phone Number : 01096889764 / 01140927066
